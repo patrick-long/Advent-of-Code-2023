@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"noImplicitReturns": true,
+		"target": "esnext",
+		"module": "commonjs",
+		"baseUrl": "src",
+		"lib": ["DOM", "ES2023"]
+	},
+	"include": ["./src/**/*"]
+}
